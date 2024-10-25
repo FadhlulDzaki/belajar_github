@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>celerates web</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css"> <!-- link to an external stylesheet -->
+  </head>
+
+  <body>
+    <header>
+      <h1>FADHLUL DZAKI HANDOKO</h1>
+      <h3>Belajar membuat website dari 0</h3>
+    </header>
+
+     <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#contact">Contact</a></li>
+    </ul>
+ 
+    <main>
+      <section>
+        <h2>Gambar</h2>
+        <img src="max verstappen.jpg" alt="pembalap">
+        <p>This is a paragraph of text below the image.</p>
+      </section>
+      <section>
+        <h2>Unordered List Section</h2>
+        <ul>
+          <li>Item 1</li>
+          <li>Item 2</li>
+          <li>Item 3</li>
+        </ul>
+      </section>
+    </main>
+  </body>
+</html>
